@@ -1,7 +1,7 @@
 # 🧠 Hallucination Detection in Multimodal LLMs
 
 This project implements an **AI-powered hallucination detector** for multimodal models.  
-It checks whether an **image-caption pair** is consistent or potentially hallucinated, using a combination of **BLIP (image captioning), CLIP (vision-language similarity), and semantic similarity models**.
+It checks whether an **image-caption pair** is consistent or potentially hallucinated, using a combination of **BLIP (image captioning), CLIP (vision-language similarity) and semantic similarity models**.
 
 ---
 
@@ -44,7 +44,6 @@ It checks whether an **image-caption pair** is consistent or potentially halluci
 ## ▶️ Usage
 
 Run the Streamlit app:
-
    ```bash
    streamlit run hallucination.py
 

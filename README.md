@@ -45,8 +45,8 @@ It checks whether an **image-caption pair** is consistent or potentially halluci
 
 Run the Streamlit app:
 
-```bash
-streamlit run hallucination.py
+   ```bash
+   streamlit run hallucination.py
 
 ---
 
